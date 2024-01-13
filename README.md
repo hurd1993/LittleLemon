@@ -4,4 +4,4 @@ Meta Back-End Developer Capstone Project
 restaurant/ <br>
 restaurant/menu/ <br>
 restaurant/booking/ <br>
-restaurant/booking/tables <br>
+restaurant/booking/tables/ <br>
