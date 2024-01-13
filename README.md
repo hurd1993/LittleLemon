@@ -1,6 +1,7 @@
 # LittleLemon
 Meta Back-End Developer Capstone Project
 ## API Paths
-restaurant/
-restaurant/menu/
-restaurant/booking/
+restaurant/ <br>
+restaurant/menu/ <br>
+restaurant/booking/ <br>
+restaurant/booking/tables <br>
